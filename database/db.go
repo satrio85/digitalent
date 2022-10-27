@@ -13,7 +13,7 @@ var (
 	host     = "localhost"
 	port     = 5432
 	user     = "postgres"
-	password = "root"
+	password = "satrio88"
 	dbname   = "postgres"
 	db       *gorm.DB
 	err      error
